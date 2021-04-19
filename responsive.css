@@ -1,0 +1,71 @@
+@media only screen and (max-width: 640px){
+  .main-contact{
+    flex-wrap: wrap;
+  }
+  .main-item{
+    width:100%;
+  }
+  .main-p{
+    padding-bottom:50px;
+  }
+  .product-contact{
+    flex-wrap:wrap;
+  }
+  .product-item{
+    width:80%;
+    margin:0 auto;
+  }
+  .product-item img{
+    width:100%;
+  }
+  .text{
+    padding-bottom:30px;
+  }
+  .signup2{
+    margin-bottom:30px;
+  }
+  .news-contact{
+    width:100%;
+  }
+  .info{
+    padding-right:300px;
+  }
+  .news{
+    flex-wrap: wrap;
+  }
+  .news-item {
+    width:100%;
+    padding-bottom:30px;
+  }
+  .JOURNAL-contact{
+    flex-wrap: wrap;
+  }
+  .JOURNAL-item{
+    width:100%;
+    padding-bottom:40px;
+  }
+  .labo-image {
+    width:100%;
+  }
+  .lobo-contact{
+    position: relative;
+  }
+  .lobo-item{
+    width:180px;
+    position: absolute;
+    top:30%;
+    right:40px;
+  }
+  .lobo-item h4{
+    font-size:16px;
+    padding-bottom:20px;
+  }
+  .lobo-item p{
+    font-size:13px;
+  }
+
+
+
+  
+
+}
